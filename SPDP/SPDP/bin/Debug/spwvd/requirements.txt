@@ -1,0 +1,8 @@
+numpy模块，安装方法：
+1.首先确保已经安装pip,python3.4版本以上会自带pip
+2.打开cmd,输入 pip install numpy,然后pip工具会自动下载numpy包并安装。这一步安装成功会显示：successfully install numpy
+3.检测是否安装好：打开cmd——>输入 python ——>输入 import numpy。若无报错，即安装完毕。
+
+scipy模块,安装方法同上：pip install scipy
+
+PIL模块，安装方法同上：pip install pillow
