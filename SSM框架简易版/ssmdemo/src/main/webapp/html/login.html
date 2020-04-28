@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="../../js/jquery-3.1.0.min.js"></script>
+	<meta charset="UTF-8">
+	<title>登录</title>
+</head>
+
+<body>
+	<h3>用户登录</h3>
+	<hr>
+	用户名: <input type="text" id="username"/><br>
+	密码:<input type="password" id="password"/><br>
+	<input type="button" id="loginBtn" value="登录"/>
+	<p id="p1"></p>
+</body>
+
+<script>
+	
+	$("#loginBtn").click(function() {
+		if(check()){
+			login();
+		}else {
+			$("#p1").html("输入错误！");
+		}
+	});
+	
+	//执行登录操作的函数
+	function login() {
+		$.ajax({
+			type:"POST",
+			url:"/user/login.htm",
+			data:{
+				'username':$("#username").val(),
+				'password':$("#password").val()
+			},
+			dataType:"json",
+			success:function(data) {
+				$("#p1").html("这是后台返回的数据：<br>status：" + data.status + "<br>msg:" + data.msg);
+			},
+			error:function(data) {
+				$("#p1").html(data.msg);
+			}
+		});
+	}
+	
+	//前端校验函数
+	function check() {
+		var username = $("#username").val();
+		var password = $("#password").val();
+		if(!(/^1[3|4|5|7|8]\d{9}$/.test(username)) 
+				|| password == null 
+				|| password == ""
+				|| password == 0) 
+		{
+			return false;
+		}
+			return true;
+	}
+</script>
+
+</html>

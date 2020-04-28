@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ImageLabel\ImageLabel\bin\Debug\ImageLabel.exe.config
+C:\Users\Administrator\source\repos\ImageLabel\ImageLabel\bin\Debug\ImageLabel.exe
+C:\Users\Administrator\source\repos\ImageLabel\ImageLabel\bin\Debug\ImageLabel.pdb
+C:\Users\Administrator\source\repos\ImageLabel\ImageLabel\obj\Debug\ImageLabel.AboutBox1.resources
+C:\Users\Administrator\source\repos\ImageLabel\ImageLabel\obj\Debug\ImageLabel.Form1.resources
+C:\Users\Administrator\source\repos\ImageLabel\ImageLabel\obj\Debug\ImageLabel.Form2.resources
+C:\Users\Administrator\source\repos\ImageLabel\ImageLabel\obj\Debug\ImageLabel.Form3.resources
+C:\Users\Administrator\source\repos\ImageLabel\ImageLabel\obj\Debug\ImageLabel.Form4.resources
+C:\Users\Administrator\source\repos\ImageLabel\ImageLabel\obj\Debug\ImageLabel.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ImageLabel\ImageLabel\obj\Debug\ImageLabel.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ImageLabel\ImageLabel\obj\Debug\ImageLabel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ImageLabel\ImageLabel\obj\Debug\ImageLabel.exe
+C:\Users\Administrator\source\repos\ImageLabel\ImageLabel\obj\Debug\ImageLabel.pdb
+C:\Users\Administrator\source\repos\ImageLabel\ImageLabel\obj\Debug\ImageLabel.csprojAssemblyReference.cache
