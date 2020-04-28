@@ -1,0 +1,9 @@
+D:\Files\compyfiles\sun\公司\部门\0901抗辐照试验板材料\0901抗辐照试验板材料\0901_proj  监控程序\0901_proj\0901_proj_c#\Console_proj_v5\Test_console\Test_console\bin\Release\Test_console.exe
+D:\Files\compyfiles\sun\公司\部门\0901抗辐照试验板材料\0901抗辐照试验板材料\0901_proj  监控程序\0901_proj\0901_proj_c#\Console_proj_v5\Test_console\Test_console\bin\Release\Test_console.pdb
+D:\Files\compyfiles\sun\公司\部门\0901抗辐照试验板材料\0901抗辐照试验板材料\0901_proj  监控程序\0901_proj\0901_proj_c#\Console_proj_v5\Test_console\Test_console\obj\x86\Release\Test_console.FormConsole.resources
+D:\Files\compyfiles\sun\公司\部门\0901抗辐照试验板材料\0901抗辐照试验板材料\0901_proj  监控程序\0901_proj\0901_proj_c#\Console_proj_v5\Test_console\Test_console\obj\x86\Release\Test_console.Properties.Resources.resources
+D:\Files\compyfiles\sun\公司\部门\0901抗辐照试验板材料\0901抗辐照试验板材料\0901_proj  监控程序\0901_proj\0901_proj_c#\Console_proj_v5\Test_console\Test_console\obj\x86\Release\Test_console.csproj.GenerateResource.cache
+D:\Files\compyfiles\sun\公司\部门\0901抗辐照试验板材料\0901抗辐照试验板材料\0901_proj  监控程序\0901_proj\0901_proj_c#\Console_proj_v5\Test_console\Test_console\obj\x86\Release\Test_console.csproj.CoreCompileInputs.cache
+D:\Files\compyfiles\sun\公司\部门\0901抗辐照试验板材料\0901抗辐照试验板材料\0901_proj  监控程序\0901_proj\0901_proj_c#\Console_proj_v5\Test_console\Test_console\obj\x86\Release\Test_console.exe
+D:\Files\compyfiles\sun\公司\部门\0901抗辐照试验板材料\0901抗辐照试验板材料\0901_proj  监控程序\0901_proj\0901_proj_c#\Console_proj_v5\Test_console\Test_console\obj\x86\Release\Test_console.pdb
+D:\Files\compyfiles\sun\公司\部门\0901抗辐照试验板材料\0901抗辐照试验板材料\0901_proj  监控程序\0901_proj\0901_proj_c#\Console_proj_v5\Test_console\Test_console\obj\x86\Release\Test_console.csprojAssemblyReference.cache
